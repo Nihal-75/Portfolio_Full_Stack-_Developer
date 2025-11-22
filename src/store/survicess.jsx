@@ -1,4 +1,4 @@
-import { FaGlobe, FaMobileAlt, FaPalette, FaRocket, FaTools } from "react-icons/fa";
+import { FaCode, FaGlobe, FaMobileAlt, FaPalette, FaRocket, FaTools } from "react-icons/fa";
 
 export const ServiceData = [
   {
