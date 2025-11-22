@@ -27,13 +27,13 @@ function Resume() {
         </div>
         <div className="flex justify-center items-center gap-4">
           <a
-            href="/public/MERN_STACK RESUME.pdf"
+            href="/MERN_STACK RESUME.pdf"
             target="_blank"
             className="px-4 py-2 bg-red-600 text-white rounded-full hover:bg-blue-600 duration-150">
             View Resume
           </a>
           <a
-            href="/public/MERN_STACK RESUME.pdf"
+            href="/MERN_STACK RESUME.pdf"
             download="MERN_STACK RESUME.pdf"
             className="px-4 py-2 bg-red-600 text-white rounded-full hover:bg-blue-600 duration-150 ">
             Download Resume
