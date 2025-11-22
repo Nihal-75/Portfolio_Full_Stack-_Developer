@@ -1,5 +1,6 @@
-import { ServiceData } from "../store/survicess.jsx";
+
 import { useNavigate } from "react-router-dom";
+import { ServiceData } from "../store/survicess";
 
 function Service() {
   const navigate = useNavigate();
